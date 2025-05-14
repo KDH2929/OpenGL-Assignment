@@ -1,4 +1,4 @@
-# OpenGL_Assignment  
+# OpenGL-Assignment  
 
 <br>
 
